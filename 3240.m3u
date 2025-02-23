@@ -1,0 +1,50 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="cctv1" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg" group-title="General",CCTV1
+http://111.29.9.35:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="cctv2" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv2.jpg" group-title="General",CCTV2
+http://111.29.9.44:6610/000000001000/1000000001000023315/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="cctv3" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv3.jpg" group-title="General",CCTV3
+http://111.29.9.38:6610/000000001000/1000000001000011218/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="cctv4" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv4.jpg" group-title="General",CCTV4
+http://111.29.9.40:6610/000000001000/5000000005000030093/index.m3u8?channel-id=bestzb&Contentid=5000000005000030093&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="cctv5" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" group-title="General",CCTV5
+http://111.29.9.46:6610/000000001000/1000000001000004794/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="cctv5+" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5+.jpg" group-title="General",CCTV5+
+http://111.29.9.39:6610/000000001000/1000000001000018504/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="cctv6" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv6.jpg" group-title="General",CCTV6
+http://111.29.9.46:6610/000000001000/1000000001000016466/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="cctv7" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv7.jpg" group-title="General",CCTV7
+http://111.29.9.47:6610/000000001000/1000000001000024341/index.m3u8?channel-id=ystenlive&Contentid=1000000001000024341&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="cctv8" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv8.jpg" group-title="General",CCTV8
+http://111.29.9.46:6610/000000001000/1000000001000003736/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="cctv9" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv9.jpg" group-title="General",CCTV9
+http://111.29.9.47:6610/000000001000/1000000001000014583/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="cctv10" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv10.jpg" group-title="General",CCTV10
+http://111.29.9.38:6610/000000001000/1000000001000023734/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023734&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="cctv11" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv11.jpg" group-title="General",CCTV11
+http://111.29.9.47:6610/000000001000/1000000002000019789/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="cctv12" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv12.jpg" group-title="General",CCTV12
+http://111.29.9.39:6610/000000001000/1000000001000032494/index.m3u8?channel-id=ystenlive&Contentid=1000000001000032494&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="cctv13" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv13.jpg" group-title="General",CCTV13
+http://111.29.9.35:6610/000000001000/1000000002000021303/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="cctv14" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv14.jpg" group-title="General",CCTV14
+http://111.29.9.40:6610/000000001000/5000000010000023358/index.m3u8?channel-id=bestzb&Contentid=5000000010000023358&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="cctv15" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv15.jpg" group-title="General",CCTV15
+http://111.29.9.36:6610/000000001000/1000000002000008163/index.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="cctv17" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv17.jpg" group-title="General",CCTV17
+http://111.29.9.46:6610/000000001000/1000000005000056836/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=3
+
+#EXTINF:-1 tvg-id="" tvg-name="tvbxinhe" tvg-language="Chinese" tvg-logo="" group-title="General",TVB_Xinhe
+http://php.jdshipin.com:8880/smt.php?id=Xinhe
+
+#EXTINF:-1 tvg-id="" tvg-name="tvbxinhe" tvg-language="Chinese" tvg-logo="" group-title="General",TVBJ2
+http://bziyunshao.synology.me:8890/bysid/82
+#EXTINF:-1 tvg-id="" tvg-name="tvbxinhe" tvg-language="Chinese" tvg-logo="" group-title="General",Now爆谷
+http://hkenlive.uk/livehttpplay?channel_id=13002
+#EXTINF:-1 tvg-id="" tvg-name="tvbxinhe" tvg-language="Chinese" tvg-logo="" group-title="General",Now星影
+http://hkenlive.uk/livehttpplay?channel_id=13003
+#EXTINF:-1 tvg-id="" tvg-name="tvbxinhe" tvg-language="Chinese" tvg-logo="" group-title="General",TNow英超粤语
+http://hkenlive.uk/livehttpplay?channel_id=13007
+#EXTINF:-1 tvg-id="" tvg-name="tvbxinhe" tvg-language="Chinese" tvg-logo="" group-title="General",凤凰香港
+http://108.181.20.197/livehttpplay?channel_id=20067
