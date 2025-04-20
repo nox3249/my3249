@@ -1,0 +1,414 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/guide.xml"
+
+
+#EXTINF:-1 tvg-id="cctv1" tvg-name="CCTV-1 综合" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv1.png" group-title="CCTV", CCTV-1综合
+http://z.b.bkpcp.top/m.php?id=cctv1
+#EXTINF:-1 tvg-id="cctv2" tvg-name="CCTV-2 财经" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv2.png" group-title="CCTV", CCTV-2财经
+http://z.b.bkpcp.top/m.php?id=cctv2
+#EXTINF:-1 tvg-id="cctv3" tvg-name="CCTV-03 综艺" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv3.png" group-title="CCTV", CCTV3综艺
+http://z.b.bkpcp.top/m.php?id=cctv3
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV-04 亚洲" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv4.png" group-title="CCTV", CCTV-04亚洲
+http://z.b.bkpcp.top/m.php?id=cctv4
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV-05 体育" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv5.png" group-title="CCTV", CCTV-05体育
+http://z.b.bkpcp.top/m.php?id=cctv5
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV-06 电影" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv6.png" group-title="CCTV", CCTV-06电影
+http://z.b.bkpcp.top/m.php?id=cctv6
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV-07国防军事" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv7.png" group-title="CCTV", CCTV-07国防军事
+http://z.b.bkpcp.top/m.php?id=cctv7
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV-08 电视剧" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv8.png" group-title="CCTV", CCTV-08电视剧
+http://z.b.bkpcp.top/m.php?id=cctv8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV-09 纪录" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv9.png" group-title="CCTV", CCTV-09纪录
+http://z.b.bkpcp.top/m.php?id=cctv9
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV-10 科教" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv10.png" group-title="CCTV", CCTV-10科教
+http://z.b.bkpcp.top/m.php?id=cctv10
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV-11 戏曲" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv11.png" group-title="CCTV", CCTV-11戏曲
+http://z.b.bkpcp.top/m.php?id=cctv11
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV-12 社会与法" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv12.png" group-title="CCTV", CCTV-12社会与法
+http://z.b.bkpcp.top/m.php?id=cctv12
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV-13 新闻" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv13.png" group-title="CCTV", CCTV-13新闻
+http://z.b.bkpcp.top/m.php?id=cctv13
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV-14 少儿" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv14.png" group-title="CCTV", CCTV-14少儿
+http://z.b.bkpcp.top/m.php?id=cctv14
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV-15 音乐" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv15.png" group-title="CCTV", CCTV-15音乐
+http://z.b.bkpcp.top/m.php?id=cctv15
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV-16 奥林匹克" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv16.png" group-title="CCTV", CCTV-16奥林匹克
+https://yunmei.tv/main/cctv-16.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV-17 农业农村<" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv17.png" group-title="CCTV", CCTV-17农业农村
+http://z.b.bkpcp.top/m.php?id=cctv17
+#EXTINF:-1 tvg-id="CCTV4O" tvg-name="CCTV4欧洲咪咕" group-title="CCTV", CCTV4欧洲咪咕
+http://z.b.bkpcp.top/m.php?id=cctv4o
+#EXTINF:-1 tvg-id="CCTV4M" tvg-name="CCTV4美洲咪咕" group-title="CCTV", CCTV4美洲咪咕
+http://z.b.bkpcp.top/m.php?id=cctv4m
+#EXTINF:-1 tvg-id="JTYM" tvg-name="家庭影院咪咕" group-title="CCTV", 家庭影院咪咕
+http://z.b.bkpcp.top/m.php?id=jtyy
+#EXTINF:-1 tvg-id="DFYS" tvg-name="东方影视咪咕" group-title="CCTV", 东方影视咪咕
+http://z.b.bkpcp.top/m.php?id=shys
+
+  
+
+
+
+#EXTINF:-1 tvg-id="华丽翡翠台" tvg-logo="" group-title="TVB", 华丽翡翠台
+https://php.jdshipin.com/smt.php?id=Tvbjade
+
+#EXTINF:-1 tvg-id="无线新闻台" tvg-logo="" group-title="TVB", 无线新闻台
+https://php.jdshipin.com/smt.php?id=inews_twn
+
+#EXTINF:-1 tvg-id="TVB星河" tvg-logo="" group-title="TVB", TVB星河
+https://php.jdshipin.com/smt.php?id=Xinhe
+
+#EXTINF:-1 tvg-id="千禧经典台" tvg-logo="" group-title="TVB", 千禧经典台
+https://php.jdshipin.com/smt.php?id=Tvbclassic
+
+#EXTINF:-1 tvg-id="翡翠台" tvg-logo="" group-title="TVB", 翡翠台
+https://php.jdshipin.com/TVOD/iptv.php?id=fct
+
+#EXTINF:-1 tvg-id="明珠台" tvg-logo="" group-title="TVB", 明珠台
+https://php.jdshipin.com/TVOD/iptv.php?id=mzt
+
+
+#EXTINF:-1 tvg-id="RTHK31" tvg-logo="" group-title="香港", RTHK31
+https://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+
+#EXTINF:-1 tvg-id="RTHK32" tvg-logo="" group-title="香港", RTHK32
+https://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",华丽翡翠台
+https://php.jdshipin.com/smt.php?id=Tvbjade
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港",TVB星河
+https://php.jdshipin.com/smt.php?id=Xinhe
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港",千禧经典台
+https://php.jdshipin.com/smt.php?id=Tvbclassic
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港",TVB娱乐新闻台
+https://php.jdshipin.com/smt.php?id=Tvbentertainment
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Astro",Astro AOD
+https://php.jdshipin.com/smt.php?id=Aodhd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Astro",Astro AEC
+https://php.jdshipin.com/smt.php?id=AEC
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Astro",爱奇艺
+https://php.jdshipin.com/smt.php?id=Qiyi
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Astro",Astro QJ
+https://php.jdshipin.com/smt.php?id=Quanjia
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Astro",Astro欢喜台
+https://php.jdshipin.com/smt.php?id=Huahee
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Astro",八度空间
+https://php.jdshipin.com/smt.php?id=TV8
+
+#EXTINF:-1 tvg-logo="" group-title="Astro" ,Astro IQIYI
+http://aktv_stream.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Astro" ,Astro QJ
+http://aktv_stream.m16tv.cfd/stream/tuntun/astroqj/AKTV.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Astro" ,Astro 欢喜台
+http://aktv_stream.m16tv.cfd/stream/tuntun/astro/AKTV.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Astro" ,天映頻道
+http://aktv_stream.m16tv.cfd/stream/astro_a1/celestialmovies/AKTV.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港",TVB星河
+http://aktv_stream.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港",翡翠台
+https://php.jdshipin.com/TVOD/iptv.php?id=fct
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港",翡翠台 (AKTV)
+http://aktv_stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港",明珠台
+https://php.jdshipin.com/TVOD/iptv.php?id=mzt
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港",明珠台 (AKTV)
+http://aktv_stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港",娛樂新聞台(HK)
+http://aktv_stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港",翡翠台北美版(TVB J1)
+https://php.jdshipin.com/TVOD/iptv.php?id=j1
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港",TVB J1
+https://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港",TVB Plus
+https://php.jdshipin.com/TVOD/iptv.php?id=j2
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港",TVB Plus (AKTV)
+http://aktv_stream.m16tv.cfd/stream/aktv1/tvbplus/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港",VIUTV
+http://aktv_stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港",VIUTV (Backup)
+http://aktv_stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港",HOY TV
+https://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港",RTHK31
+https://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港",RTHK32
+https://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港",澳视澳门
+https://php.jdshipin.com/TVOD/iptv.php?id=asam
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港",澳视卫星
+https://php.jdshipin.com/TVOD/iptv.php?id=as
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港",CCTV1港澳版rthk33
+https://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="新加坡",Channel 5 HD
+http://aktv_stream.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="新加坡",Channel 8 HD
+http://aktv_stream.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
+#EXTINF:-1tvg-id="" tvg-logo="" group-title="新加坡",Channel U HD
+http://aktv_stream.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
+#EXTINF:-1 tvg-logo="" group-title="新加坡" ,Mediacorp Entertainment Chinese
+http://aktv_stream.m16tv.cfd/stream/astro_a1/mediacorpentertainmentchinese/AKTV.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="新闻",凤凰中文
+https://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="新闻",凤凰资讯
+https://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="新闻",凤凰香港
+https://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="新闻",无线新闻台
+https://php.jdshipin.com/smt.php?id=inews_twn
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="新闻",亞洲新聞台
+http://aktv_stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="新闻",東方衛視國際頻道
+http://aktv_stream.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="新闻",無線衛星新聞台
+http://aktv_stream.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="電影",美亚电影
+https://php.jdshipin.com/TVOD/iptv.php?id=meiya
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="電影",AXN
+http://aktv_stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="電影" ,CINEMAWORLD
+http://aktv_stream.m16tv.cfd/stream/astro_a1/ch31/AKTV.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="電影",重温经典
+https://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="電影",天映频道
+https://php.jdshipin.com/smt.php?id=Celestial
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="電影",天映经典
+https://php.jdshipin.com/smt.php?id=Celestial2
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="電影",AsianAction
+http://aktv_stream.m16tv.cfd/stream/tuntun/asianaction/AKTV.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="体育",广东体育
+https://php.jdshipin.com/TVOD/iptv.php?id=gdty
+
+#EXTINF:-1 tvg-id="momo綜合" tvg-logo="" group-title="体育",momo綜合
+rtmp://f13h.mine.nu/sat/tv761
+
+#EXTINF:-1 tvg-logo="" group-title="体育" ,FIGHT SPORTS
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="体育",ESPN
+http://aktv_stream.m16tv.cfd/stream/useradd1/espn/AKTV.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="体育" , RebullSports
+http://aktv_stream.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="体育" ,緯來體育
+http://aktv_stream.m16tv.cfd/stream/test/null/AKTV.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="体育" , UnifiSports
+http://aktv_stream.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8
+#EXTINF:-1 tvg-logo="" group-title="体育" , NBA
+http://aktv_stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="卡通",Nick Jr
+http://aktv_stream.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="卡通" ,Nickelodeon
+http://aktv_stream.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="卡通" ,Animax(HK)
+http://aktv_stream.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/哆啦A梦.png" group-title="动卡通",哆啦A梦
+http://www.douzhicloud.site:35455/huya/11601963
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/猫和老鼠.png" group-title="卡通",猫和老鼠
+http://www.douzhicloud.site:35455/huya/11352879
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="卡通" ,ZoomMoo
+http://aktv_stream.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/航海王.png" group-title="卡通",航海王
+http://www.douzhicloud.site:35455/huya/16913382
+
+
+
+#EXTINF:-1 tvg-name="Love Nature HD" tvg-logo="https://live.fanmingming.com/tv/Love Nature HD.png" group-title="紀錄片",Love Nature HD
+http://aktv_stream.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
+
+#EXTINF:-1 tvg-name="Love Nature HD" tvg-logo="https://live.fanmingming.com/tv/Love Nature HD.png" group-title="紀錄片",Love Nature HD2
+https://stream1.freetv.fun/love-nature-hd-1.ctv
+
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="" group-title="紀錄片" ,Discovery Channel
+https://stream1.freetv.fun/discovery-channel-20.ctv
+
+#EXTINF:-1 tvg-id="CCTV9" tvg-logo="" group-title="紀錄片", CCTV-9高清
+http://39.164.180.36:19901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+
+ 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musics" ,Xite Hits
+http://aktv_stream.m16tv.cfd/stream/aktv3/xitehits/AKTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musics" ,Xite Rock
+http://aktv_stream.m16tv.cfd/stream/aktv3/xiterock/AKTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musics" ,MTV
+http://aktv_stream.m16tv.cfd/stream/useradd1/usmtvlive/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="test", CCTV-9
+http://58.243.224.244:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="test", CCTV-9
+http://112.46.85.60:8009/hls/509/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="test", CCTV-9
+http://ms.fxim.net:808/hls/9/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="test", CCTV-9
+http://58.17.48.228:808/hls/9/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="test", CCTV-9
+http://ku9.3n.cc/smt.php?id=cctv9hd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="test", CCTV-9
+http://36.105.100.208:35455/gaoma/cctv9.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="test", CCTV-9
+http://110.53.52.63:8888/newlive/live/hls/11/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="test", CCTV-9
+http://www.douzhicloud.site:35455/gaoma/cctv9.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="test", CCTV-9
+http://huashetou.fun:35455/gaoma/cctv9.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="test", CCTV-9
+https://api.olelive.com/dis/live/CCTV9HD/hls.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Movies VOD" ,惊天激战
+https://cos.m3u8hw8.com/share/1ea241bf08db48b99f0dc7762ff9a488.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 1
+https://v9.tlkqc.com/wjv9/202309/14/rsnxD7krk81/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 2
+https://v4.tlkqc.com/wjv4/202308/27/nNwuDNbqFD1/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 3
+https://v4.tlkqc.com/wjv4/202308/27/RfiqkMswL91/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 4
+https://v4.tlkqc.com/wjv4/202308/26/MH61VqB3HY1/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 5
+https://v9.tlkqc.com/wjv9/202309/14/mxKAhUHHt51/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 6
+https://v4.tlkqc.com/wjv4/202308/27/NcbJS830vv1/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 7
+https://v4.tlkqc.com/wjv4/202308/27/gVh2ZgT80J1/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 8
+https://v4.tlkqc.com/wjv4/202308/27/HQnvAt785M1/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 9
+https://v9.tlkqc.com/wjv9/202309/14/021sAeUV521/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 10
+https://v4.tlkqc.com/wjv4/202308/27/xWU4e9Zgqz1/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 11
+https://v4.tlkqc.com/wjv4/202308/27/FNcnkUj5Rq1/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 12
+https://v4.tlkqc.com/wjv4/202308/27/ExENKCu6mK1/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 13
+https://v9.tlkqc.com/wjv9/202309/14/J25d60TDQX1/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 14
+https://v4.tlkqc.com/wjv4/202308/26/vPJ6STE2B51/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 15
+https://v4.tlkqc.com/wjv4/202308/27/SGygsttpnq1/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 16
+https://v4.tlkqc.com/wjv4/202308/27/EuHiSaXfAE1/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 17
+https://v4.tlkqc.com/wjv4/202308/27/R1PMfrjYS31/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 18
+https://v9.tlkqc.com/wjv9/202309/14/pgbnvduDvy1/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 19
+https://v4.tlkqc.com/wjv4/202308/27/ih3Pu6eKP31/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 20
+https://v4.tlkqc.com/wjv4/202308/27/2MykdJecCX1/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 21
+https://v9.tlkqc.com/wjv9/202309/14/UL7jue2Ye01/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 22
+https://v9.tlkqc.com/wjv9/202309/14/UL7jue2Ye01/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 23
+https://v9.tlkqc.com/wjv9/202309/14/UL7jue2Ye01/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 24
+https://v4.tlkqc.com/wjv4/202308/27/6TPy5xjCRP1/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 25
+https://v4.tlkqc.com/wjv4/202308/27/QgzxpxZ7xw1/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 26
+https://v4.tlkqc.com/wjv4/202308/27/PkZZJCdv6v1/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 27
+https://v4.tlkqc.com/wjv4/202308/27/jUnwjwVXau1/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 28
+https://v4.tlkqc.com/wjv4/202308/27/fAJEUcyPwj1/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 29
+https://v9.tlkqc.com/wjv9/202309/14/5gBmi1Anc11/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 30
+https://v4.tlkqc.com/wjv4/202308/27/gEhL19knfG1/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 31
+https://v4.tlkqc.com/wjv4/202308/26/p9wTngDpT31/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 32
+https://v4.tlkqc.com/wjv4/202308/26/xsvEcCFxCD1/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 33
+https://v9.tlkqc.com/wjv9/202309/14/CJ6wM9w9Gu1/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 34
+https://v4.tlkqc.com/wjv4/202308/27/tuBjjdBRut1/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 35
+https://v4.tlkqc.com/wjv4/202308/27/QJ3JsbEs6b1/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 36
+https://v4.tlkqc.com/wjv4/202308/27/pm94E6i1m21/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 37
+https://v4.tlkqc.com/wjv4/202308/26/XY7jstqSWx1/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 38
+https://v9.tlkqc.com/wjv9/202309/14/p60WJeQuJj1/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 39
+https://v4.tlkqc.com/wjv4/202308/27/daWLwCsbpQ1/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 40
+https://v4.tlkqc.com/wjv4/202308/26/bs2jqyKKqF1/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 41
+https://v9.tlkqc.com/wjv9/202309/14/4v2YJZwkci1/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大军师司马懿之军师联盟", 42
+https://v4.tlkqc.com/wjv4/202308/27/2QNDdxKmP11/video/1000k_720/hls/index.m3u8
+
+
+
+
+
+
+
+
