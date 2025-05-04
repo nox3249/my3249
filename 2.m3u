@@ -46,6 +46,9 @@ http://z.b.bkpcp.top/m.php?id=shys
 #EXTINF:-1 tvg-id="发现之旅" tvg-name="东方影视咪咕" group-title="旅遊", 发现之旅咪咕
 http://nctv.top/IDOEPpiryt/migu.php?id=fxzl
 
+#EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://live.fanmingming.cn/tv/之江纪录.png" group-title="旅遊",之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+
 #EXTINF:-1 tvg-id="凤凰香港000" tvg-logo="" group-title="General", 凤凰香港ooo
 https://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv
 
@@ -213,7 +216,6 @@ http://aktv_stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
 #EXTINF:-1 tvg-logo="" group-title="電影" ,CINEMAWORLD
 http://aktv-stream.m16tv.cfd/stream/astro_a1/ch31/AKTV.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="電影",重温经典
 https://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 
@@ -225,6 +227,8 @@ https://php.jdshipin.com/smt.php?id=Celestial2
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="電影",AsianAction
 http://aktv_stream.m16tv.cfd/stream/tuntun/asianaction/AKTV.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="体育",广东体育
@@ -251,6 +255,8 @@ http://aktv_stream.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8
 #EXTINF:-1 tvg-logo="" group-title="体育" , NBA
 http://aktv_stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
 
+
+
 #EXTINF:-1  tvg-id="" tvg-logo="" group-title="卡通",Nick Jr
 http://aktv_stream.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
 
@@ -269,19 +275,14 @@ http://www.douzhicloud.site:35455/huya/11352879
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="卡通" ,ZoomMoo
 http://aktv_stream.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/航海王.png" group-title="卡通",航海王
 http://www.douzhicloud.site:35455/huya/16913382
 
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.cn/tv/浙江少儿.png" group-title="卡通",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 
 #EXTINF:-1 tvg-name="Love Nature HD" tvg-logo="https://live.fanmingming.com/tv/Love Nature HD.png" group-title="紀錄片",Love Nature HD
 http://aktv_stream.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
-
-#EXTINF:-1 tvg-name="Love Nature HD" tvg-logo="https://live.fanmingming.com/tv/Love Nature HD.png" group-title="紀錄片",Love Nature HD2
-https://stream1.freetv.fun/love-nature-hd-1.ctv
-
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="" group-title="紀錄片" ,Discovery Channel
-https://stream1.freetv.fun/discovery-channel-20.ctv
 
 #EXTINF:-1 tvg-id="CCTV9" tvg-logo="" group-title="紀錄片", CCTV-9高清
 http://xiaoya.crccxw.top:35455/gaoma/cctv9.m3u8
